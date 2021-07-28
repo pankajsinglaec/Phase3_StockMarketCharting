@@ -1,0 +1,8 @@
+{
+    "CompanyName":"A",
+    "Turnover":1111,
+    "CEO":"qwer",
+    "BoardofDirector":"qwdfg",
+    "WriteUp":"dfsddsd"
+}
+
